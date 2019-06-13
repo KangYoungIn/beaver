@@ -1,0 +1,8 @@
+c:\users\julia\documents\visual studio 2012\Projects\FrmIPchange\FrmIPchange\obj\Debug\FrmIPchange.csprojResolveAssemblyReference.cache
+c:\users\julia\documents\visual studio 2012\Projects\FrmIPchange\FrmIPchange\obj\Debug\FrmIPchange.Properties.Resources.resources
+c:\users\julia\documents\visual studio 2012\Projects\FrmIPchange\FrmIPchange\obj\Debug\FrmIPchange.csproj.GenerateResource.Cache
+c:\users\julia\documents\visual studio 2012\Projects\FrmIPchange\FrmIPchange\bin\Debug\FrmIPchange.exe
+c:\users\julia\documents\visual studio 2012\Projects\FrmIPchange\FrmIPchange\bin\Debug\FrmIPchange.pdb
+c:\users\julia\documents\visual studio 2012\Projects\FrmIPchange\FrmIPchange\obj\Debug\FrmIPchange.Form1.resources
+c:\users\julia\documents\visual studio 2012\Projects\FrmIPchange\FrmIPchange\obj\Debug\FrmIPchange.exe
+c:\users\julia\documents\visual studio 2012\Projects\FrmIPchange\FrmIPchange\obj\Debug\FrmIPchange.pdb
