@@ -3,6 +3,8 @@ c:\users\julia\documents\visual studio 2012\Projects\FrmIPchange\FrmIPchange\obj
 c:\users\julia\documents\visual studio 2012\Projects\FrmIPchange\FrmIPchange\obj\Debug\FrmIPchange.csproj.GenerateResource.Cache
 c:\users\julia\documents\visual studio 2012\Projects\FrmIPchange\FrmIPchange\bin\Debug\FrmIPchange.exe
 c:\users\julia\documents\visual studio 2012\Projects\FrmIPchange\FrmIPchange\bin\Debug\FrmIPchange.pdb
-c:\users\julia\documents\visual studio 2012\Projects\FrmIPchange\FrmIPchange\obj\Debug\FrmIPchange.Form1.resources
 c:\users\julia\documents\visual studio 2012\Projects\FrmIPchange\FrmIPchange\obj\Debug\FrmIPchange.exe
 c:\users\julia\documents\visual studio 2012\Projects\FrmIPchange\FrmIPchange\obj\Debug\FrmIPchange.pdb
+C:\Users\julia\Documents\Visual Studio 2012\Projects\FrmIPchange\FrmIPchange\obj\Debug\FrmIPchange.FrmMain.resources
+C:\Users\julia\Documents\Visual Studio 2012\Projects\FrmIPchange\FrmIPchange\obj\Debug\FrmIPchange.FrmHandler.resources
+C:\Users\julia\Documents\Visual Studio 2012\Projects\FrmIPchange\FrmIPchange\obj\Debug\FrmIPchange.exe.licenses
