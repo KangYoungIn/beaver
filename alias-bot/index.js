@@ -1,7 +1,7 @@
 const botkit = require('botkit');  //봇 모듈
 const slack = require('slack-node');
 const dotenv = require('dotenv');
-const token = require('./keys.env');
+const token = require('/home/kangyoungin/security/.env');
 
 const controller = botkit.slackbot({
     debug: false,
