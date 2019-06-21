@@ -1,5 +1,7 @@
 const botkit = require('botkit');  //봇 모듈
 const slack = require('slack-node');
+const dotenv = require('dotenv');
+const token = require('./keys.env');
 
 const controller = botkit.slackbot({
     debug: false,
@@ -38,5 +40,5 @@ controller.hears(['요니생일', '영인이생일'], botScope, (bot, message) =
 });
 
 controller.spawn({
-    token: 'xoxb-661033479312-661267107826-NCAePE1NBQWbI2B1d2ROg6VD'
+    token: token
 }).startRTM();
