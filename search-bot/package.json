@@ -11,8 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@slack/client": "^5.0.1",
-    "botkit": "^0.6.21",
-    "dotenv": "^8.0.0",
-    "slack-node": "^0.1.8"
+    "dotenv": "^8.0.0"
   }
 }
