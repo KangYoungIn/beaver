@@ -4,7 +4,7 @@ function convert(input) {
 }
 
 function extract(input) {
-    return input.split("검색!")[1]
+    return input.split("구글:")[1]
         .replace(/(^\s*)|(\s*$)/gi, "")
         .split(" ")
         .join("+")
