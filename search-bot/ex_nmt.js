@@ -1,4 +1,4 @@
-/ 네이버 Papago NMT API 예제
+// 네이버 Papago NMT API 예제
 var express = require('express');
 var app = express();
 var client_id = 'qfYtuIdLWEw6wnkT3oRX';
