@@ -2,7 +2,7 @@ coverage==4.2
 py==1.4.31
 pytest==3.0.4
 pytest-cov==2.4.0
-requests==2.12.1
+requests==2.20.0
 six==1.10.0
 slacker==0.9.29
 websocket-client==0.37.0
